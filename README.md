@@ -1,6 +1,6 @@
 ### Welcome! I'm Dana Gibson 👋
 
-I am a DevOps in training. Feel free to connect with me here:
+I am a Cloud Engineer. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-DanaGibson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danagibson1000/)]([(https://www.linkedin.com/in/danagibson1000/))
 [![Medium Badge](https://img.shields.io/badge/DanaGibson-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@danagibson1000)](https://medium.com/@danagibson1000)
